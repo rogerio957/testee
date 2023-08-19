@@ -1,0 +1,11 @@
+#EXTM3U
+
+#EXTINF:-1
+
+https://uploadbeta.com/api/video/test.m3u8
+#EXTINF:-2
+https://uploadbeta.com/api/video/test.m3u8
+#EXTINF:-3
+https://stmv1.srvif.com/cinepix/cinepix/playlist.m3u8
+#EXTINF:-4
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
